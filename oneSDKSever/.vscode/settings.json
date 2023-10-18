@@ -1,0 +1,9 @@
+{  
+"liveServer.settings.https":   
+{
+"enable": true, //set it true to enable the feature.  
+"cert": "/Users/rory/oneSDKSever/HTTPS/localhost.pem", //full path of the certificate  
+"key": "/Users/rory/oneSDKSever/HTTPS/localhost.key", //full path of the private key  
+"passphrase": "1234"  
+}  
+}
